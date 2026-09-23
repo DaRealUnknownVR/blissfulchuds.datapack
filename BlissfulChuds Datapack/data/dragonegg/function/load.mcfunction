@@ -1,0 +1,1 @@
+scoreboard objectives add has_dragon_egg dummy

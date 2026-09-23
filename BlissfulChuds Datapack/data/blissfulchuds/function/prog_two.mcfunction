@@ -1,0 +1,2 @@
+gamerule allowEnteringNetherUsingPortals true
+worldborder set 4k
